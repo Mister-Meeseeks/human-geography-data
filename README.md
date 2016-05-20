@@ -15,7 +15,7 @@ Stored in file ```naturalAmenities.csv```. Data set underlying the USDA Natural 
 - Water area
 
 ##### Format
-Standard comma-separated plaintext
+Standard comma-separated plaintext. Header row is included.
 
 ##### Source 
 Original data can be found at:
